@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Maglio Chiabai
 
-📍 São Paulo, Brazil | 🇧🇷 Portuguese (native) · English (advanced · course + self-study)
+📍 São Paulo, Brazil | 🇧🇷 Portuguese (native) · English (advanced)
 
 🎓 **ADS (Systems Analysis and Development)** — Fatec Carapicuíba, 1st semester
 
