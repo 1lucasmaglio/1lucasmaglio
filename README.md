@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Maglio Chiabai
 
-<!--
-**1lucasmaglio/1lucasmaglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 São Paulo, Brazil | 🇧🇷 Portuguese (native) · English (advanced · course + self-study)
 
-Here are some ideas to get you started:
+🎓 **ADS (Systems Analysis and Development)** — Fatec Carapicuíba, 1st semester
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Currently studying
+
+**At Fatec:**
+- Computer Architecture & Organization  
+- Operating Systems  
+- Java & programming logic  
+- Communication & Expression  
+
+**On my own:**
+- HTML & CSS
+- Python
+
+---
+
+## 🛠️ Building skills in
+
+- Java foundations  
+- Algorithms & logic  
+
+---
+
+## 📬 Connect with me
+
+📧 lucasmaglionovo@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/lucas-maglio-chiabai/)
+
+---
+
+> When I want or need to learn something, I don't stop.
