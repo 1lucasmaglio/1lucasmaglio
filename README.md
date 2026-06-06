@@ -15,8 +15,8 @@
 - Communication & Expression  
 
 **On my own:**
-- HTML & CSS
 - Python
+- Power BI
 
 ---
 
