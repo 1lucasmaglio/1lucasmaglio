@@ -18,8 +18,8 @@
 I'm strengthening my programming foundations through coursework and independent study, while exploring different areas of software development.
 
 - ☕ Studying **Java**, object-oriented programming, algorithms and programming logic
-- 🗄️ Basic knowledge of **SQL and databases**
-- 🌐 Basic knowledge of **HTML, CSS and JavaScript**
+- 🗄️ Developing my skills in **SQL and databases**
+- 🌐 Developing my skills in **HTML, CSS and JavaScript**
 - 💻 Studying **computer architecture and operating systems**
 - 🗣️ Native Portuguese speaker · Advanced English
 
