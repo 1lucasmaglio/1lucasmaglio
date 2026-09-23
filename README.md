@@ -1,12 +1,14 @@
-<h1 align="center">Hi, I'm Lucas Maglio Chiabai 👋</h1>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Lucas%20Maglio%20Chiabai&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Learning%20%E2%80%A2%20Exploring%20%E2%80%A2%20Improving&descSize=18&descAlignY=60" alt="Lucas Maglio Chiabai — Learning, Exploring, Improving">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Learning+Java+and+web+development;Turning+ideas+into+projects;Always+curious.+Always+learning." alt="Learning Java and web development. Turning ideas into projects. Always curious. Always learning.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Learning+Java+and+programming+logic;Exploring+software+development;One+step+at+a+time." alt="Learning Java and programming logic. Exploring software development. One step at a time.">
 </p>
 
 <p align="center">
   <strong>Systems Analysis and Development student</strong> at Fatec Carapicuíba<br>
-  Curious about how software works — and learning by building it.
+  Curious about how software works and always willing to learn.
 </p>
 
 <p align="center">
@@ -18,7 +20,7 @@
 
 ### 👨‍💻 A little about me
 
-I'm a second-semester **Systems Analysis and Development (ADS)** student in São Paulo, Brazil. Right now, I'm strengthening my programming foundations, exploring different areas of software development, and turning what I learn into projects.
+I'm a second-semester **Systems Analysis and Development (ADS)** student in São Paulo, Brazil. Right now, I'm strengthening my programming foundations through coursework and exercises, while exploring different areas of software development.
 
 - ☕ Studying **Java**, object-oriented programming, and problem-solving
 - 🗃️ Learning the fundamentals of **SQL and databases**
@@ -26,10 +28,10 @@ I'm a second-semester **Systems Analysis and Development (ADS)** student in São
 - 🎯 Looking for an **internship in software development**
 - 🗣️ Native Portuguese speaker · Advanced English
 
-### 🚀 What I'm building
+### 📚 What I'm studying
 
 **[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
-A Java project for managing academic projects. It helps me practice classes and objects, business rules, collections, and saving data in CSV files.
+A Java project I'm studying as part of my coursework to understand classes and objects, business rules, collections, and saving data in CSV files.
 
 ### 🧰 Technologies I'm learning
 
@@ -39,6 +41,13 @@ A Java project for managing academic projects. It helps me practice classes and 
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
+
+### 📊 GitHub statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1lucasmaglio&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="Lucas's GitHub statistics">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lucasmaglio&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=2F81F7" alt="Languages used in Lucas's repositories">
 </p>
 
 ---
