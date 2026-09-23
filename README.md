@@ -27,7 +27,7 @@ Sou estudante do segundo semestre de **Análise e Desenvolvimento de Sistemas na
 
 ### O que estou estudando
 
-**[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
+**[Sistema de Projetos](https://github.com/1lucasmaglio/SistemaProjetos)**  
 Um projeto em Java que estou estudando para entender classes, objetos, coleções, regras de negócio e persistência de dados em arquivos CSV.
 
 </details>
