@@ -1,37 +1,36 @@
-# 👋 Hi, I'm Lucas Maglio Chiabai
+<h1 align="center">Hi, I'm Lucas Maglio Chiabai ðŸ‘‹</h1>
 
-📍 São Paulo, Brazil | 🇧🇷 Portuguese (native) · English (advanced)
+<p align="center">
+  Systems Analysis and Development student at Fatec CarapicuÃ­ba<br>
+  Learning Java and building toward back-end development
+</p>
 
-🎓 **ADS (Systems Analysis and Development)** — Fatec Carapicuíba, 2nd semester
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-maglio-chiabai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lucasmaglionovo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-333333?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
+
+### About me
+
+- ðŸŽ“ Second-semester ADS student in SÃ£o Paulo, Brazil
+- â˜• Learning Java, object-oriented programming, and programming logic
+- ðŸ—ƒï¸ Building my foundations in SQL and databases
+- ðŸŒ Familiar with the basics of HTML, CSS, and JavaScript
+- ðŸ’¼ Interested in a back-end development internship
+- ðŸ—£ï¸ Native Portuguese speaker with advanced English
+
+### What I'm building
+
+**Sistema de Projetos e PortfÃ³lio** â€” a Java learning project for organizing academic projects. I'm using it to practice classes, objects, business rules, collections, and CSV file persistence.
+
+### Tools and technologies
+
+![Java](https://img.shields.io/badge/Java-learning-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-foundations-4479A1?style=flat-square&logo=sqlite&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-basics-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-basics-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-basics-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-## 📚 Currently studying
-
-**At Fatec:**
-- Computer Architecture & Organization  
-- Operating Systems  
-- Java & programming logic  
-- Communication & Expression  
-
-**On my own:**
-- Python
-- Power BI
-
----
-
-## 🛠️ Building skills in
-
-- Java foundations  
-- Algorithms & logic  
-
----
-
-## 📬 Connect with me
-
-📧 lucasmaglionovo@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucas-maglio-chiabai/)
-
----
-
-> When I want or need to learn something, I don't stop.
+<p align="center"><em>When I want or need to learn something, I don't stop.</em></p>
