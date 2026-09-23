@@ -1,14 +1,13 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Lucas%20Maglio%20Chiabai&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Learning%20%E2%80%A2%20Exploring%20%E2%80%A2%20Improving&descSize=18&descAlignY=60" alt="Lucas Maglio Chiabai — Learning, Exploring, Improving">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Lucas%20Maglio%20Chiabai&fontSize=40&fontColor=FFFFFF&fontAlignY=40" alt="Lucas Maglio Chiabai">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Learning+Java+and+programming+logic;Exploring+software+development;One+step+at+a+time." alt="Learning Java and programming logic. Exploring software development. One step at a time.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Studying+Systems+Analysis+and+Development;Learning+Java%2C+SQL+and+web+development" alt="Studying Systems Analysis and Development. Learning Java, SQL and web development.">
 </p>
 
 <p align="center">
-  <strong>Systems Analysis and Development student</strong> at Fatec Carapicuíba<br>
-  Curious about how software works and always willing to learn.
+  São Paulo, Brazil · Fatec Carapicuíba
 </p>
 
 <p align="center">
@@ -16,24 +15,20 @@
   <a href="mailto:lucasmaglionovo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
+### About me
 
-### 👨‍💻 A little about me
+I'm in my second semester of Systems Analysis and Development at Fatec Carapicuíba. Most of what I share here comes from my classes and programming practice.
 
-I'm a second-semester **Systems Analysis and Development (ADS)** student in São Paulo, Brazil. Right now, I'm strengthening my programming foundations through coursework and exercises, while exploring different areas of software development.
+I'm currently studying Java, object-oriented programming, SQL and databases. I also have basic knowledge of HTML, CSS and JavaScript.
 
-- ☕ Studying **Java**, object-oriented programming, and problem-solving
-- 🗃️ Learning the fundamentals of **SQL and databases**
-- 🌐 Exploring **HTML, CSS, and JavaScript**
-- 🎯 Looking for an **internship in software development**
-- 🗣️ Native Portuguese speaker · Advanced English
+I'm looking for a software development internship. I speak Portuguese natively and have advanced English.
 
-### 📚 What I'm studying
+### Coursework
 
 **[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
-A Java project I'm studying as part of my coursework to understand classes and objects, business rules, collections, and saving data in CSV files.
+A project from my Java classes. I'm using it to learn about classes, objects, collections, validation and CSV files.
 
-### 🧰 Technologies I'm learning
+### Technologies I'm learning
 
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
@@ -43,11 +38,8 @@ A Java project I'm studying as part of my coursework to understand classes and o
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
-### 📊 GitHub statistics
-
 <p align="center">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1lucasmaglio&theme=github_dark" alt="Lucas's GitHub statistics">
-  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1lucasmaglio&theme=github_dark" alt="Languages used across Lucas's repositories">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1lucasmaglio&theme=github_dark" alt="Languages used across my repositories">
 </p>
 
 ---
