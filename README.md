@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Lucas Maglio Chiabai 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Learning+Java+and+web+development;Turning+ideas+into+projects;Always+curious.+Always+learning." alt="Learning Java and web development. Turning ideas into projects. Always curious. Always learning.">
+</p>
+
+<p align="center">
   <strong>Systems Analysis and Development student</strong> at Fatec Carapicuíba<br>
   Curious about how software works — and learning by building it.
 </p>
@@ -45,8 +49,8 @@ A Java project for managing academic projects. It helps me practice classes and 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/github-snake.svg">
-    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man animation of my GitHub contributions" src="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/pacman-contribution-graph.svg">
   </picture>
 </p>
