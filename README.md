@@ -46,8 +46,8 @@ A Java project I'm studying as part of my coursework to understand classes and o
 ### 📊 GitHub statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=1lucasmaglio&show_icons=true&hide_rank=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7" alt="Lucas's GitHub statistics">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lucasmaglio&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=2F81F7" alt="Languages used in Lucas's repositories">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=1lucasmaglio&theme=github_dark" alt="Lucas's GitHub statistics">
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1lucasmaglio&theme=github_dark" alt="Languages used across Lucas's repositories">
 </p>
 
 ---
