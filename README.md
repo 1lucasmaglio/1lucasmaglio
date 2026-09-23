@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Lucas Maglio Chiabai ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Lucas Maglio Chiabai 👋</h1>
 
 <p align="center">
-  Systems Analysis and Development student at Fatec CarapicuÃ­ba<br>
+  Systems Analysis and Development student at Fatec Carapicuíba<br>
   Learning Java and building toward back-end development
 </p>
 
@@ -12,16 +12,16 @@
 
 ### About me
 
-- ðŸŽ“ Second-semester ADS student in SÃ£o Paulo, Brazil
-- â˜• Learning Java, object-oriented programming, and programming logic
-- ðŸ—ƒï¸ Building my foundations in SQL and databases
-- ðŸŒ Familiar with the basics of HTML, CSS, and JavaScript
-- ðŸ’¼ Interested in a back-end development internship
-- ðŸ—£ï¸ Native Portuguese speaker with advanced English
+- 🎓 Second-semester ADS student in São Paulo, Brazil
+- ☕ Learning Java, object-oriented programming, and programming logic
+- 🗃️ Building my foundations in SQL and databases
+- 🌐 Familiar with the basics of HTML, CSS, and JavaScript
+- 💼 Interested in a back-end development internship
+- 🗣️ Native Portuguese speaker with advanced English
 
 ### What I'm building
 
-**Sistema de Projetos e PortfÃ³lio** â€” a Java learning project for organizing academic projects. I'm using it to practice classes, objects, business rules, collections, and CSV file persistence.
+**Sistema de Projetos e Portfólio** — a Java learning project for organizing academic projects. I'm using it to practice classes, objects, business rules, collections, and CSV file persistence.
 
 ### Tools and technologies
 
