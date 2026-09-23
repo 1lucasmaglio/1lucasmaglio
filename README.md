@@ -2,7 +2,7 @@
 
 <p align="center">
   Systems Analysis and Development student at Fatec Carapicuíba<br>
-  Learning Java and building toward back-end development
+  Learning Java, web development, and software fundamentals
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 - 🎓 Second-semester ADS student in São Paulo, Brazil
 - ☕ Learning Java, object-oriented programming, and programming logic
 - 🗃️ Building my foundations in SQL and databases
-- 🌐 Familiar with the basics of HTML, CSS, and JavaScript
-- 💼 Interested in a back-end development internship
+- 🌐 Exploring web development with HTML, CSS, and JavaScript
+- 💼 Looking for an internship in software development
 - 🗣️ Native Portuguese speaker with advanced English
 
 ### What I'm building
