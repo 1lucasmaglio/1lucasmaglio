@@ -15,13 +15,10 @@
 
 ### About me
 
-I'm strengthening my programming foundations through coursework and independent study, while exploring different areas of software development.
-
-- ☕ Studying **Java**, object-oriented programming, algorithms and programming logic
+- ☕ Learning **Java**, object-oriented programming and programming logic
 - 🗄️ Developing my skills in **SQL and databases**
 - 🌐 Developing my skills in **HTML, CSS and JavaScript**
-- 💻 Studying **computer architecture and operating systems**
-- 🗣️ Native Portuguese speaker · Advanced English
+- 🗣️ Native Portuguese speaker with **advanced English**
 
 ### What I'm studying
 
