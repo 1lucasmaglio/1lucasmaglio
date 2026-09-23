@@ -42,3 +42,11 @@ A Java project for managing academic projects. It helps me practice classes and 
 <p align="center">
   <em>When I want or need to learn something, I don't stop.</em>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/github-snake.svg">
+    <img alt="Snake animation of my GitHub contributions" src="https://raw.githubusercontent.com/1lucasmaglio/1lucasmaglio/output/github-snake.svg">
+  </picture>
+</p>
