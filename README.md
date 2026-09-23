@@ -13,6 +13,25 @@
   <a href="mailto:lucasmaglionovo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+<details>
+<summary><strong>🇧🇷 Ler em português</strong></summary>
+
+### Sobre mim
+
+Sou estudante do segundo semestre de **Análise e Desenvolvimento de Sistemas na Fatec Carapicuíba** e busco uma oportunidade de **estágio em desenvolvimento de software**.
+
+- ☕ Aprendendo **Java**, orientação a objetos e lógica de programação
+- 🗄️ Desenvolvendo minhas habilidades em **SQL e banco de dados**
+- 🌐 Desenvolvendo minhas habilidades em **HTML, CSS e JavaScript**
+- 🗣️ Português nativo e **inglês avançado**
+
+### O que estou estudando
+
+**[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
+Um projeto em Java que estou estudando para entender classes, objetos, coleções, regras de negócio e persistência de dados em arquivos CSV.
+
+</details>
+
 ### About me
 
 I'm a second-semester Systems Analysis and Development student at **Fatec Carapicuíba**, looking for a **software development internship**.
