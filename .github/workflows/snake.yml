@@ -3,7 +3,15 @@ name: Generate snake
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
+  push:
+    branches:
+      - main
+      - master
+    paths:
+      - ".github/workflows/snake.yml"
 
 jobs:
   generate:
@@ -14,15 +22,15 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate animation
+      - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: 1lucasmaglio
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish animation
+      - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
