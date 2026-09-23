@@ -6,12 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-maglio-chiabai/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:lucasmaglionovo@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/lucas-maglio-chiabai/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:lucasmaglionovo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -28,7 +24,7 @@ I'm a second-semester **Systems Analysis and Development (ADS)** student in São
 
 ### 🚀 What I'm building
 
-**Sistema de Projetos e Portfólio**  
+**[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
 A Java project for managing academic projects. It helps me practice classes and objects, business rules, collections, and saving data in CSV files.
 
 ### 🧰 Technologies I'm learning
@@ -42,6 +38,7 @@ A Java project for managing academic projects. It helps me practice classes and 
 </p>
 
 ---
+
 <p align="center">
   <em>When I want or need to learn something, I don't stop.</em>
 </p>
