@@ -43,7 +43,7 @@ I'm a second-semester Systems Analysis and Development student at **Fatec Carapi
 
 ### What I'm studying
 
-**[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
+**[Sistema de Projetos](https://github.com/1lucasmaglio/SistemaProjetos)**  
 A Java project I'm studying to understand classes, objects, collections, business rules and CSV file persistence.
 
 ### Technologies I'm learning
