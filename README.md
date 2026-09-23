@@ -15,18 +15,18 @@
 
 ### About me
 
-Most of what I share here comes from my classes and programming practice.
+I'm strengthening my programming foundations through coursework and independent study, while exploring different areas of software development.
 
-- ☕ Studying **Java**, object-oriented programming, and programming logic
-- 🗃️ Learning the fundamentals of **SQL and databases**
-- 🌐 Exploring **HTML, CSS, and JavaScript**
-- 💻 Studying **computer architecture and operating systems** at college
+- ☕ Studying **Java**, object-oriented programming, algorithms and programming logic
+- 🗄️ Basic knowledge of **SQL and databases**
+- 🌐 Basic knowledge of **HTML, CSS and JavaScript**
+- 💻 Studying **computer architecture and operating systems**
 - 🗣️ Native Portuguese speaker · Advanced English
 
-### Coursework
+### What I'm studying
 
 **[Sistema de Projetos e Portfólio](https://github.com/1lucasmaglio/SistemaProjetos)**  
-A project from my Java classes. I'm using it to learn about classes, objects, collections, validation and CSV files.
+A Java project I'm studying to understand classes, objects, collections, business rules and CSV file persistence.
 
 ### Technologies I'm learning
 
