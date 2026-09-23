@@ -15,6 +15,8 @@
 
 ### About me
 
+I'm a second-semester Systems Analysis and Development student at **Fatec Carapicuíba**, looking for a **software development internship**.
+
 - ☕ Learning **Java**, object-oriented programming and programming logic
 - 🗄️ Developing my skills in **SQL and databases**
 - 🌐 Developing my skills in **HTML, CSS and JavaScript**
