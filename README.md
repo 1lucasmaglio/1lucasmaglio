@@ -1,13 +1,11 @@
+<h1 align="center">Hi, I'm Lucas Maglio Chiabai 👋</h1>
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Lucas%20Maglio%20Chiabai&fontSize=40&fontColor=FFFFFF&fontAlignY=40" alt="Lucas Maglio Chiabai">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Learning+Java+and+programming+logic;Exploring+software+development;One+step+at+a+time." alt="Learning Java and programming logic. Exploring software development. One step at a time.">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=2F81F7&center=true&vCenter=true&width=600&height=50&lines=Studying+Systems+Analysis+and+Development;Learning+Java%2C+SQL+and+web+development" alt="Studying Systems Analysis and Development. Learning Java, SQL and web development.">
-</p>
-
-<p align="center">
-  São Paulo, Brazil · Fatec Carapicuíba
+  São Paulo, Brazil
 </p>
 
 <p align="center">
@@ -17,11 +15,13 @@
 
 ### About me
 
-I'm in my second semester of Systems Analysis and Development at Fatec Carapicuíba. Most of what I share here comes from my classes and programming practice.
+Most of what I share here comes from my classes and programming practice.
 
-I'm currently studying Java, object-oriented programming, SQL and databases. I also have basic knowledge of HTML, CSS and JavaScript.
-
-I'm looking for a software development internship. I speak Portuguese natively and have advanced English.
+- ☕ Studying **Java**, object-oriented programming, and programming logic
+- 🗃️ Learning the fundamentals of **SQL and databases**
+- 🌐 Exploring **HTML, CSS, and JavaScript**
+- 💻 Studying **computer architecture and operating systems** at college
+- 🗣️ Native Portuguese speaker · Advanced English
 
 ### Coursework
 
