@@ -1,3 +1,4 @@
+ 
 <h1 align="center">Hi, I'm Lucas Maglio Chiabai 👋</h1>
 
 <p align="center">
@@ -25,7 +26,10 @@ Sou estudante do segundo semestre de **Análise e Desenvolvimento de Sistemas na
 - 🌐 Desenvolvendo minhas habilidades em **HTML, CSS e JavaScript**
 - 🗣️ Português nativo e **inglês avançado**
 
-### O que estou estudando
+### Projetos em desenvolvimento
+
+**[Studio de Beleza Animal](https://github.com/1lucasmaglio/Projeto-Integrador-Studio-Beleza-Animal)**  
+Projeto acadêmico em equipe para gerenciamento de um estabelecimento de banho e tosa. Desenvolvido com Java, Maven, Javalin, HTML, CSS e JavaScript, incluindo cadastro de clientes e animais, serviços, agendamentos, API REST e persistência de dados em CSV.
 
 **[Sistema de Projetos](https://github.com/1lucasmaglio/SistemaProjetos)**  
 Um projeto em Java que estou estudando para entender classes, objetos, coleções, regras de negócio e persistência de dados em arquivos CSV.
@@ -41,7 +45,10 @@ I'm a second-semester Systems Analysis and Development student at **Fatec Carapi
 - 🌐 Developing my skills in **HTML, CSS and JavaScript**
 - 🗣️ Native Portuguese speaker with **advanced English**
 
-### What I'm studying
+### Projects I'm working on
+
+**[Studio de Beleza Animal](https://github.com/1lucasmaglio/Projeto-Integrador-Studio-Beleza-Animal)**  
+A team-based academic project for managing a pet grooming business. Built with Java, Maven, Javalin, HTML, CSS and JavaScript, featuring customer and pet registration, service management, appointment scheduling, a REST API and CSV file persistence.
 
 **[Sistema de Projetos](https://github.com/1lucasmaglio/SistemaProjetos)**  
 A Java project I'm studying to understand classes, objects, collections, business rules and CSV file persistence.
@@ -55,6 +62,7 @@ A Java project I'm studying to understand classes, objects, collections, busines
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img alt="Maven" src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
 <p align="center">
